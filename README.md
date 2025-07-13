@@ -59,10 +59,10 @@ The goal of the project is to uncover patterns in **career transitions, skill de
 
 ## 📁 Project Files
 
-- `Proffesional Survey Dashboard.pdf` – Full dashboard screenshot or export
-- `README.md` – Project documentation
-- `survey_cleaned.xlsx` – Cleaned dataset (if applicable)
-- `.pbix` – Power BI project file (optional)
+- `Professional_Survey_Dashboard.pdf` — 📊 Final dashboard export (PDF)
+- `Professional_Survey_Dashboard.pbix` — 💼 Power BI file (all visuals, DAX, and logic)
+- `survey_cleaned.xlsx` — 🧹 Transformed dataset used in the model
+- `README.md` — 📄 Full project documentation
 
 ---
 
@@ -79,5 +79,5 @@ The goal of the project is to uncover patterns in **career transitions, skill de
 ## 📬 Contact
 
 Ganiyu Oloyede
-[Your LinkedIn Profile]  
-oloyegan
+LinkedIn: www.linkedin.com/in/ganiyu-oloyede-40780b221
+Email: oloyegan98@gmail.com
