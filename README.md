@@ -78,6 +78,6 @@ The goal of the project is to uncover patterns in **career transitions, skill de
 
 ## 📬 Contact
 
-Ganiyu Oloyede
-LinkedIn: www.linkedin.com/in/ganiyu-oloyede-40780b221
-Email: oloyegan98@gmail.com
+-- Ganiyu Oloyede
+-- LinkedIn: www.linkedin.com/in/ganiyu-oloyede-40780b221
+-- Email: oloyegan98@gmail.com
